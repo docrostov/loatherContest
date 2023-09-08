@@ -1,22 +1,22 @@
 <p align="center"> <img src="https://github.com/docrostov/loatherContest/assets/8014761/bf7b4bbc-963a-4dc1-acf1-75ef000198fd" /> </p>
 
-Artificial Intelligence has been in the news quite a lot lately, largely for bad and weird reasons. Everywhere you look, people are using ChatGPT and other generative large language models for bizarre and poorly-fit purposes. Automated tools are (badly) replacing the jobs of random people across the world. People just don’t like robots right now! With anti-robot sentiment on the rise, what better time to stir the embers of the proletariat with an anti-automation contest run by a server where half our users automate all their turns in pursuit of bacon-flavored capital?
+Artificial Intelligence has been in the news quite a lot lately, largely for bad and weird reasons. Everywhere you look, people are using ChatGPT and other generative large language models for bizarre and poorly-fit purposes. Automated tools are (badly) replacing the jobs of random people across the world. People just don’t like robots right now! With anti-robot sentiment on the rise, what better time to stir the embers of the proletariat with an anti-automation contest run by [a Discord server](https://discord.gg/tbUCRT5) where half our users automate all their turns in pursuit of bacon-flavored capital?
 
-> **… OK, CONFUSING INTRO, WHAT’S THE GOAL HERE**
+> **… OK, DUDE, THAT WAS A WILDLY CONFUSING INTRO, WHAT’S THE ACTUAL GOAL HERE?**
 
-For this contest, we want the masses to defeat **[Autoscend](https://github.com/loathers/autoscend)**. For those who aren’t in-the-know, Autoscend is an automated ascension script coded by [Loathers](https://github.com/loathers/), the scripting consortium formerly known as LASS. Autoscend is, frankly, very good! It’s an amazing script that does a really admirable job of playing through paths and getting people rewards and karma. But this contest is about beating AI, so naturally, the goal of this contest is to beat Autoscend in the Fall 2023 challenge path.
+For this contest, we want the masses to defeat [Autoscend](https://github.com/loathers/autoscend). For those who aren’t in-the-know, Autoscend is an automated ascension script coded by [Loathers](https://github.com/loathers/), the scripting consortium formerly known as LASS. Autoscend is, frankly, very good! It’s an amazing script that does a really admirable job of playing through paths and getting people rewards and karma. But this contest is about beating AI, so naturally, the goal of this contest is to beat Autoscend in the Fall 2023 challenge path.
 
 That’s right – your goal is to beat Autoscend. But this won’t be easy. To even up the playing field, we’re letting Autoscend use a pretty well stocked account. Autoscend will be run through the path by the hot piece of ASS known colloquially as chat mod [Kenny Kamakazi](http://forums.kingdomofloathing.com/vb/member.php?u=191620). And guess what, folks. Kenny has everything. Kenny owns every standard IOTM, every familiar, every perm… just, you know. Everything. Autoscend has it all at its disposal.
 
-However! That’s not the end of the line. There’s a lot of IOTM tricks that Autoscend doesn’t use, and a lot of little speedy routing things that Autoscend simply cannot do. At its core, Autoscend is made to finish ascensions, not finish them as fast as you can. And it’s unlikely that Autoscend is going to make it to a 1-day softcore during this path, either, so that’s one way to beat the pants off of Autoscend – just ascend A Shrunken Adventurer Am I (known for the rest of this document as “SMOL”) in one day. Easy peasy. (OK, it’s not easy peasy. But it’s possible, people have already done it!)
+However! That’s not the end of the line. Our robot overlords aren't getting gold stars in -every- path, after all. There’s a ton of tricky IOTM strategies that Autoscend doesn’t use, and a lot of little speedy routing things that Autoscend simply cannot do. At its core, Autoscend is made to finish ascensions, not necessarily finish them as fast as a clever speedrunner can. And it’s unlikely that Autoscend is going to make it to a 1-day softcore during this path, either, so that’s one way to beat the pants off of Autoscend – just ascend A Shrunken Adventurer Am I (known for the rest of this document as “SMOL”) in one day. Easy peasy. (OK, it’s not easy peasy. But it’s possible, [people have already done it](http://www.koldb.com/searchresults.php?type=normal&path=shrunk&event=ns13&evdir=after&rank=1&hilite=2338119#1) -- and folks completed 1-day softcore runs was BEFORE Asym dropped an IOTM that saves 20+ turns per day.)
 
 > **CAN YOU PUT WHAT WE NEED TO DO IN BULLETPOINT FORMAT?**
 
 Sure thing, buddy.
 
-- [ ] Ascend in SMOL (either Normal or Hardcore; both will have leaderboards)
+- [ ] Ascend in SMOL (either Normal or Hardcore; both will have leaderboards) before the end of the season
 - [ ] Put up a run that is faster by days or turns than Kenny’s autoscend runs
-- [ ] Submit your run log to Sweaty Bill via either ScotchLog or KOLMafioso
+- [ ] Submit your run log to our extremely sweaty data wrangler via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/). Our data collected is the KOL user and czar of garbage "sweaty bill" (#1515124); his discord handle is "sweatybill"
 
 And that’s it! 
 
@@ -31,11 +31,11 @@ A lot of stuff! Any account that beats Robo-Kenny’s automated mark will receiv
 
 And so on and so forth, until we get to Kenny, who will receive a light kiss on the cheek from Scotch for agreeing to be the borg-driven robot we all aspire to beat.
 
-The current prize pool consists of one or more of every IOTM in next year’s standard, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 IOTMs, which are detailed below (and visible in Captain Scotch’s display case):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and largely visible in Captain Scotch’s display case):
 
 ![image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)
 
-The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny and enters their runlog ends up with an unbound IOTM for their troubles. In the event that there are more prizes than there are entries, the contest organizers will award 2-3 prizes based on runs that the organizers deem particularly outstanding, before looping the draw around and distributing the remaining IOTMs in the same order as the first draw.
+It's a lot of items, folks! This contest was gosh darn expensive. The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny and enters their runlog ends up with an unbound IOTM for their troubles. In the event that there are more prizes than there are entries, the contest organizers will award 2-3 prizes based on runs that the organizers deem particularly outstanding, before looping the draw around and distributing the remaining IOTMs in the same order as the first draw.
 
 > **ANY OTHER LITTLE SIDE HUSTLES I SHOULD KNOW ABOUT?**
 
@@ -54,8 +54,8 @@ Any run done while SMOL is the active challenge path will count, although only r
 
 - No multis are allowed. Only one account per person. Anyone found using multis to extract multiple prizes will be disqualified on both accounts.
 - As runs will require runlogs, they must be done in KoLMafia. (Sorry, mobile friends!)
-- Your run cannot be using a fully-automated ascension script like Autoscend. Obviously. If you are using pre/post-adventure scripts, that’s probably fine, but anything that makes it so you don’t have to play >10% of your turns is against the spirit of the contest.
 - While you can enter in both Softcore and Hardcore, only your best placing run will count for the purposes of the prize draw.
+- Your run cannot be using a fully-automated ascension script like Autoscend. Obviously. If you are using pre/post-adventure scripts, that’s probably fine, but anything that makes it so you don’t have to play >10% of your turns is against the spirit of the contest. 
 
 > **WHO PROVIDED THE PRIZES?**
 
@@ -79,4 +79,4 @@ Love,
 
 ========
 
-This contest is sponsored and officially run by the Ascension Speed Society. [Join us on discord](https://discord.gg/tbUCRT5) for the kinds of speed ascension tips and tricks you may need to beat Robo-Kenny and earn yourself a sparkly new IOTM!
+In case this was not clear in the flowery introduction, this contest is sponsored and officially run by the Ascension Speed Society. [Join us on discord](https://discord.gg/tbUCRT5) for the kinds of speed ascension tips and tricks you may need to beat Robo-Kenny and earn yourself a sparkly new IOTM!
