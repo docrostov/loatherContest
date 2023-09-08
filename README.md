@@ -1,4 +1,4 @@
-<p align="center"> <img src = https://github.com/docrostov/loatherContest/assets/8014761/bf7b4bbc-963a-4dc1-acf1-75ef000198fd /> </p>
+<p align="center"> <img src="https://github.com/docrostov/loatherContest/assets/8014761/bf7b4bbc-963a-4dc1-acf1-75ef000198fd" /> </p>
 
 Artificial Intelligence has been in the news quite a lot lately, largely for bad and weird reasons. Everywhere you look, people are using ChatGPT and other generative large language models for bizarre and poorly-fit purposes. Automated tools are (badly) replacing the jobs of random people across the world. People just don’t like robots right now! With anti-robot sentiment on the rise, what better time to stir the embers of the proletariat with an anti-automation contest run by a server where half our users automate all their turns in pursuit of bacon-flavored capital?
 
