@@ -22,7 +22,7 @@ And that’s it!
 
 > **HOW WILL THE PRIZES BE AWARDED?**
 
-The top 20 Hardcore and Normal runs will pick a prize from [Captain Scotch’s display case](https://museum.loathers.net/player/437479) in the order of the speed of their runs, starting at the fastest runs first by daycount and turncount. We will also be throwing in a small meat prize for folks who register the 6 speediest runs of all (the top 3 entrants in HC/Normal). 
+The top 20 Hardcore and Normal runs that beat Kenny will pick a prize from [Captain Scotch’s display case](https://museum.loathers.net/player/437479) in the order of the speed of their runs, starting at the fastest runs first by daycount and turncount. We will also be throwing in a small meat prize for folks who register the 6 speediest runs of all (the top 3 entrants in HC/Normal). 
 
 So, if the prize pool was just a BOFA, an Eagle, a Scepter, and a Goose, the prize distribution could be:
 
@@ -33,15 +33,14 @@ So, if the prize pool was just a BOFA, an Eagle, a Scepter, and a Goose, the pri
 
 And so on and so forth. Of course, we have a larger prize pool, so instead of a 4 run list, the speed-ordered list will be for 40 overall runs. Once we reach the end of the 40 runs ranked by days & turns, the remaining IOTMs (currently 5, but will be going up as the contest goes along) will be awarded to other entrants who beat Kenny in unconventional ways -- things like defeating Kenny's turncount through silly tortoisecore runs, low-IOTM specialization, and other runs that are special in different ways. Once all IOTMs are exhausted, all remaining runs that did not receive an IOTM will receive 10 million meat for their troubles. That's right -- if you beat Kenny, even if we run out of IOTM prizes, you'll still get 10 million meat!
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/3a412be4-1bc2-49ed-b766-f3e3d63d5ac7)
-
-(Pictured: Captain Scotch, who has already spent 1.5 billion on prizes.)
+<p align="center"><img src ="https://github.com/docrostov/loatherContest/assets/8014761/d1dd55fd-c462-4bb4-bd03-38da96435258" width=400 height=225 /></p>
+<p align="center">(Pictured: Captain Scotch, who has already spent 1.5 billion on prizes.)</p>
 
 > **CAN I GET MORE SPECIFICS ON THE OVERALL PRIZE POOL?**
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)!):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 51 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)!):
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)
+![image](https://github.com/docrostov/loatherContest/assets/8014761/d8f64ac8-9b55-44a4-aa72-fcab84e8ffba)
 
 It's a lot of items, folks! The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny with a manual run and enters their runlog ends up with an unbound IOTM for their troubles.
 
@@ -63,8 +62,9 @@ Any run done while SMOL is the active challenge path will count, although only r
 > **ANY RESTRICTIONS ON OUR RUNS?**
 
 - No multis are allowed. Only one account per person. Anyone found using multis to extract multiple prizes will be disqualified on both accounts.
-- While we have tracks for both HC and Normal, only one of your runs will count for the purposes of the prize draw. We will always take the best-placing run you have, unless you actively choose to use a 100% familiar run as your primary run for the Mr. Accessory bounty discussed above.
-- As runs will require runlogs, they must be done in KoLMafia. (Sorry, mobile friends!)
+- While we have tracks for both HC and Normal, only one of your runs will count for the purposes of the prize draw.
+   - We will always take the best-placing run you have, unless you actively choose to use a 100% familiar run as your primary run for the Mr. Accessory bounty discussed above.
+- As runs will require runlogs, your runs must be done in KoLMafia. (Sorry, mobile friends!)
 - Your run cannot be using a fully-automated ascension script like Autoscend. Obviously. If you are using pre/post-adventure scripts, that’s probably fine, but anything that makes it so you don’t have to play >10% of your turns is against the spirit of the contest.
 
 > **YOU MENTIONED TORTOISECORE. WHAT'S THAT?**
@@ -98,8 +98,10 @@ Big thanks go out to the following chums and buckets (in no particular order) wh
 - Haxxi (#2264486)
 - Lyft (#3045223)
 - Aenimus (#2273519)
+- Minikid2 (#1708696)
 - Captain Scotch (#437479)
 - Manendra (#1483803)
+- Asmodais (#2071543)
 - playultm8 (#2156370)
 - threebullethamburglar (#1993636)
 - Busta_Rhymes (#1901297)
