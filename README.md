@@ -2,7 +2,7 @@
 
 Artificial Intelligence has been in the news quite a lot lately, largely for bad and weird reasons. Everywhere you look, people are using ChatGPT and other generative large language models for bizarre and poorly-fit purposes. Automated tools are (badly) replacing the jobs of random people across the world. People just don’t like robots right now! With anti-robot sentiment on the rise, what better time to stir the embers of the proletariat with an anti-automation contest run by [a Discord server](https://discord.gg/tbUCRT5) where half our users automate all their turns in pursuit of bacon-flavored capital?
 
-> **… OK, DUDE, THAT WAS A WILDLY CONFUSING INTRO, WHAT’S THE ACTUAL GOAL HERE?**
+> **… OK, DUDE, WILDLY CONFUSING INTRO. WHAT’S THE ACTUAL GOAL HERE?**
 
 For this contest, we want the masses to defeat [Autoscend](https://github.com/loathers/autoscend). For those who aren’t in-the-know, Autoscend is an automated ascension script coded by [Loathers](https://github.com/loathers/), the scripting consortium formerly known as LASS. Autoscend is, frankly, very good! It’s an amazing script that does a really admirable job of playing through paths and getting people rewards and karma. But this contest is about beating AI, so naturally, the goal of this contest is to beat Autoscend in the Fall 2023 challenge path.
 
@@ -14,15 +14,17 @@ However! That’s not the end of the line. Our robot overlords aren't getting go
 
 Sure thing, buddy.
 
-- [ ] Ascend in SMOL (either Normal or Hardcore; both will have leaderboards) before the end of the season
-- [ ] Put up a run that is faster by days or turns than Kenny’s autoscend runs
-- [ ] Submit your run log to our extremely sweaty data wrangler via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/). Our data collected is the KOL user and czar of garbage "sweaty bill" (#1515124); his discord handle is "sweatybill"
+- Ascend in SMOL (either Normal or Hardcore; both will have leaderboards) before the end of the season
+- Put up a run that is faster by days or turns than Kenny’s autoscend runs
+- Submit your run log via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/) to KOL user and czar of garbage "sweaty bill" (#1515124); his discord handle is "sweatybill", if you'd rather send it that way.
 
 And that’s it! 
 
 > **WHAT ARE THE PRIZES?**
 
-A lot of stuff! Any account that beats Robo-Kenny’s automated mark will receive one IOTM of their choosing from the IOTMs available in Captain Scotch’s display case. Prize-winners will pick in the order of the speed of their runs, starting at the fastest runs first. We will also be throwing in a small meat prize for folks who register the 6 speediest runs of all (the top 3 entrants in HC/Normal). So, for instance, if the prize pool was a BOFA, an Eagle, a Scepter, and a Goose, the prize distribution would be:
+A lot of stuff! Any account that beats Robo-Kenny’s automated mark will receive one IOTM of their choosing from the IOTMs available in [Captain Scotch’s display case](https://museum.loathers.net/player/437479). Prize-winners will pick in the order of the speed of their runs, starting at the fastest runs first. We will also be throwing in a small meat prize for folks who register the 6 speediest runs of all (the top 3 entrants in HC/Normal). 
+
+So, for instance, if the prize pool was a BOFA, an Eagle, a Scepter, and a Goose, the prize distribution would be:
 
 1.  1st HC (Haxxi, 2/300 HC) selects Goose; receives that + 25mil meat
 2.  1st Normal (Beldur, 1/350 SC) selects BOFA; receives that + 25mil meat
@@ -31,7 +33,7 @@ A lot of stuff! Any account that beats Robo-Kenny’s automated mark will receiv
 
 And so on and so forth, until we get to Kenny, who will receive a light kiss on the cheek from Scotch for agreeing to be the borg-driven robot we all aspire to beat.
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and largely visible in Captain Scotch’s display case):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case):
 
 ![image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)
 
@@ -42,9 +44,9 @@ It's a lot of items, folks! This contest was gosh darn expensive. The pool may c
 Well, yes, actually! Glad you asked.
 
 - Anyone who has never achieved a commendation before and ends the season with a Gold Star, Silver Moon, or Bronze Button will receive 25 million meat.
-   - Have you received a commendation before? Never fear – if you beat your old “best” commendation (IE, get a silver if your best is a bronze, etc), you will receive an additional 10 million meat! 
+   - Received a commendation before? If you beat your old “best” commendation (IE, get a silver if your best is a bronze, etc), you will receive an additional 10 million meat! 
 - Anyone who beats Kenny with a 100% familiar run will receive an additional Mr. Accessory, reflecting their commitment to accessorizing with a specific familiar of their dreams. 
-- Anyone who provides commentary in their submitted run-log will get an additional 10 million meat.
+- Anyone who provides commentary in their submitted run-log will get an additional 10 million meat. An example would be something like the [runlog I released](https://docs.google.com/spreadsheets/d/1ZAV1qF4Z9lsNieQvVmcxaHxOlxYtBD3yr2YSUUJ8AFA/edit#gid=559692533) detailing my 1-day HCNP run I did last year; the Decision Matrix tab has a ton of notes detailing my approach and some of the big decision points, and the 2020 run linked in the office fridge has some turn-by-turn commentary in the log itself, because I am a huge nerd. You don't need THIS much commentary, obviously, just... something talking about your run and how you planned it and what you learned is more than good enough. It is our goal to make a public repository with the runlogs submitted for this contest, and logs with commentary will help more people learn about fun speed tricks and approaches they can use to step up their run quality in the future!
 
 > **HOW LONG WILL THIS LAST?**
 
