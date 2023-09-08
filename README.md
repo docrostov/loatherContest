@@ -8,15 +8,15 @@ For this contest, we want the masses to defeat [Autoscend](https://github.com/lo
 
 That’s right – your goal is to beat Autoscend. But this won’t be easy. To even up the playing field, we’re letting Autoscend use a pretty well stocked account. Autoscend will be run through the path by the hot piece of ASS known colloquially as chat mod [Kenny Kamakazi](http://forums.kingdomofloathing.com/vb/member.php?u=191620). And guess what, folks. Kenny has everything. Kenny owns every standard IOTM, every familiar, every perm… just, you know. Everything. Autoscend has it all at its disposal.
 
-However! That’s not the end of the line. Our robot overlords aren't getting gold stars in -every- path, after all. There’s a ton of tricky IOTM strategies that Autoscend doesn’t use, and a lot of little speedy routing things that Autoscend simply cannot do. At its core, Autoscend is made to finish ascensions, not necessarily finish them as fast as a clever speedrunner can. And it’s unlikely that Autoscend is going to make it to a 1-day softcore during this path, either, so that’s one way to beat the pants off of Autoscend – just ascend A Shrunken Adventurer Am I (known for the rest of this document as “SMOL”) in one day. Easy peasy. (OK, it’s not easy peasy. But it’s possible, [people have already done it](http://www.koldb.com/searchresults.php?type=normal&path=shrunk&event=ns13&evdir=after&rank=1&hilite=2338119#1) -- and folks completed 1-day softcore runs was BEFORE Asym dropped an IOTM that saves 20+ turns per day.)
+However! That’s not the end of the line. Our robot overlords aren't getting gold stars in -every- path, after all. There’s a ton of tricky IOTM strategies that Autoscend doesn’t use, and a lot of little speedy routing things that Autoscend simply cannot do. At its core, Autoscend is made to finish ascensions, not necessarily finish them as fast as a clever speedrunner can. And it’s unlikely that Autoscend is going to make it to a 1-day softcore during this path, either, so that’s one way to beat the pants off of Autoscend – just ascend A Shrunken Adventurer Am I (known for the rest of this document as “SMOL”) in one day. Easy peasy. (OK, it’s not easy peasy. But it’s possible, [people have already done it](http://www.koldb.com/searchresults.php?type=normal&path=shrunk&event=ns13&evdir=after&rank=1&hilite=2338119#1) -- and folks completed 1-day softcore runs BEFORE Asym dropped BoFA!)
 
 > **CAN YOU PUT WHAT WE NEED TO DO IN BULLETPOINT FORMAT?**
 
 Sure thing, buddy.
 
-- Ascend in SMOL (either Normal or Hardcore; both will have leaderboards) before the end of the season
+- Ascend in SMOL (either Normal or Hardcore; both will have leaderboards)
 - Put up a run that is faster by days or turns than Kenny’s autoscend runs
-- Submit your run log via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/) to KOL user and czar of garbage "sweaty bill" (#1515124); his discord handle is "sweatybill", if you'd rather send it that way.
+- Submit your run log via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/) to KOL user "sweaty bill" (#1515124)
 
 And that’s it! 
 
@@ -24,7 +24,7 @@ And that’s it!
 
 A lot of stuff! Any account that beats Robo-Kenny’s automated mark will receive one IOTM of their choosing from the IOTMs available in [Captain Scotch’s display case](https://museum.loathers.net/player/437479). Prize-winners will pick in the order of the speed of their runs, starting at the fastest runs first. We will also be throwing in a small meat prize for folks who register the 6 speediest runs of all (the top 3 entrants in HC/Normal). 
 
-So, for instance, if the prize pool was a BOFA, an Eagle, a Scepter, and a Goose, the prize distribution would be:
+So, if the prize pool was a BOFA, an Eagle, a Scepter, and a Goose, the prize distribution could be:
 
 1.  1st HC (Haxxi, 2/300 HC) selects Goose; receives that + 25mil meat
 2.  1st Normal (Beldur, 1/350 SC) selects BOFA; receives that + 25mil meat
@@ -33,7 +33,7 @@ So, for instance, if the prize pool was a BOFA, an Eagle, a Scepter, and a Goose
 
 And so on and so forth, until we get to Kenny, who will receive a light kiss on the cheek from Scotch for agreeing to be the borg-driven robot we all aspire to beat.
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 45 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)!):
 
 ![image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)
 
@@ -46,7 +46,8 @@ Well, yes, actually! Glad you asked.
 - Anyone who has never achieved a commendation before and ends the season with a Gold Star, Silver Moon, or Bronze Button will receive 25 million meat.
    - Received a commendation before? If you beat your old “best” commendation (IE, get a silver if your best is a bronze, etc), you will receive an additional 10 million meat! 
 - Anyone who beats Kenny with a 100% familiar run will receive an additional Mr. Accessory, reflecting their commitment to accessorizing with a specific familiar of their dreams. 
-- Anyone who provides commentary in their submitted run-log will get an additional 10 million meat. An example would be something like the [runlog I released](https://docs.google.com/spreadsheets/d/1ZAV1qF4Z9lsNieQvVmcxaHxOlxYtBD3yr2YSUUJ8AFA/edit#gid=559692533) detailing my 1-day HCNP run I did last year; the Decision Matrix tab has a ton of notes detailing my approach and some of the big decision points, and the 2020 run linked in the office fridge has some turn-by-turn commentary in the log itself, because I am a huge nerd. You don't need THIS much commentary, obviously, just... something talking about your run and how you planned it and what you learned is more than good enough. It is our goal to make a public repository with the runlogs submitted for this contest, and logs with commentary will help more people learn about fun speed tricks and approaches they can use to step up their run quality in the future!
+- Anyone who provides commentary in their submitted run-log will get an additional 10 million meat.
+   - An example would be something like the [runlog I released](https://docs.google.com/spreadsheets/d/1ZAV1qF4Z9lsNieQvVmcxaHxOlxYtBD3yr2YSUUJ8AFA/edit#gid=559692533) detailing my 1-day HCNP run I did last year. You don't need THIS much commentary, but it is our goal to make a public repository with the runlogs submitted for this contest, and logs with commentary will help more people learn about the community's fun speed tricks!
 
 > **HOW LONG WILL THIS LAST?**
 
