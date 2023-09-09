@@ -38,9 +38,9 @@ And so on and so forth. Of course, we have a larger prize pool, so instead of a 
 
 > **CAN I GET MORE SPECIFICS ON THE OVERALL PRIZE POOL?**
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 51 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/e5d6a7f6-7956-4ca0-aeb5-34785ee7d7c1)!):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 60 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/6d79e84a-1e67-42c0-b8d7-f20c9f83e31a)!):
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/d8f64ac8-9b55-44a4-aa72-fcab84e8ffba)
+![image](https://github.com/docrostov/loatherContest/assets/8014761/6d79e84a-1e67-42c0-b8d7-f20c9f83e31a)
 
 It's a lot of items, folks! The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny with a manual run and enters their runlog ends up with an unbound IOTM for their troubles.
 
@@ -98,11 +98,13 @@ Big thanks go out to the following chums and buckets (in no particular order) wh
 - Haxxi (#2264486)
 - Lyft (#3045223)
 - Aenimus (#2273519)
+- purple shrimp (#1659891)
 - Minikid2 (#1708696)
 - Captain Scotch (#437479)
 - Manendra (#1483803)
 - Asmodais (#2071543)
 - playultm8 (#2156370)
+- MonkeyMan200 (#1349423)
 - threebullethamburglar (#1993636)
 - Busta_Rhymes (#1901297)
 
