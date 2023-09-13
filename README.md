@@ -16,7 +16,7 @@ Sure thing, buddy.
 
 - Ascend into SMOL, the Fall 2023 path (either Normal or Hardcore; both will have boards)
 - Put up a run that is faster by days or turns than Kenny’s autoscend runs
-- Submit your run log for the run you want included in the prize draw via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/) to KOL user "sweaty bill" (#1515124)
+- Submit your run log for the run you want included in the prize draw via either [ScotchLog](https://github.com/docrostov/ScotchLog) or [KOLMafioso](https://kolmafioso.app/) to KOL user "phillapology" (#3472804) or Discord user sweatybill (an ASS moderator)
 
 And that’s it! 
 
@@ -31,16 +31,16 @@ So, if the prize pool was just a BOFA, an Eagle, a Scepter, and a Goose, the pri
 3.  2nd Normal (3BH, 1/365 SC) selects Scepter; receives that + 15mil meat
 4.  2nd HC (Aenimus, 2/305 HC) selects Eagle; receives that + 15mil meat
 
-And so on and so forth. Of course, we have a larger prize pool, so instead of a 4 run list, the speed-ordered list will be for 40 overall runs. Once we reach the end of the 40 runs ranked by days & turns, the remaining IOTMs (currently 5, but will be going up as the contest goes along) will be awarded to other entrants who beat Kenny in unconventional ways -- things like defeating Kenny's turncount through silly tortoisecore runs, low-IOTM specialization, and other runs that are special in different ways. Once all IOTMs are exhausted, all remaining runs that did not receive an IOTM will receive 10 million meat for their troubles. That's right -- if you beat Kenny, even if we run out of IOTM prizes, you'll still get 10 million meat!
+And so on and so forth. Of course, we have a larger prize pool, so instead of a 4 run list, the speed-ordered list will be for 40 overall runs. Once we reach the end of the 40 runs ranked by days & turns, the remaining IOTMs will be awarded to other entrants who beat Kenny in unconventional ways -- things like defeating Kenny's turncount through silly tortoisecore runs, low-IOTM specialization, and other runs that are special in different ways. Once all IOTMs are exhausted, all remaining runs that did not receive an IOTM will receive 10 million meat for their troubles. That's right -- if you beat Kenny, even if we run out of IOTM prizes, you'll still get 10 million meat!
 
 <p align="center"><img src ="https://github.com/docrostov/loatherContest/assets/8014761/d1dd55fd-c462-4bb4-bd03-38da96435258" width=400 height=225 /></p>
 <p align="center">(Pictured: Captain Scotch, who has already spent 1.5 billion on prizes.)</p>
 
 > **CAN I GET MORE SPECIFICS ON THE OVERALL PRIZE POOL?**
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 60 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/6d79e84a-1e67-42c0-b8d7-f20c9f83e31a)!):
+The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 66 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/37d56644-6c24-4da2-bae3-769d374e93fd)!):
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/6d79e84a-1e67-42c0-b8d7-f20c9f83e31a)
+![image](https://github.com/docrostov/loatherContest/assets/8014761/37d56644-6c24-4da2-bae3-769d374e93fd)
 
 It's a lot of items, folks! The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny with a manual run and enters their runlog ends up with an unbound IOTM for their troubles.
 
@@ -77,10 +77,10 @@ We are aware that not everyone has the IOTMs necessary to beat Kenny's run. Some
 
 > **OK, GREAT. WHAT IS KENNY'S CURRENT TURNCOUNT?**
 
-At time of writing (September 8th), Kenny currently is at: 
+At time of writing (September 12th), Kenny currently is at: 
 
 - 2 days, 676 turns in Hardcore
-- 2 days, 548 turns in Normal
+- 2 days, 518 turns in Normal
 
 Kenny will be running Autoscend again before the season concludes, so these numbers are not final -- these are an initial shot. It sounds as though Kenny intends to grind normal runs with Autoscend to get the path reward, so it is likely the turn count for Normal goes down considerably before the end of the season. We're less sure about Hardcore -- seems much less likely that one moves around very much! 
 
@@ -90,7 +90,7 @@ These rules are pretty set in stone, and we do not anticipate major changes. But
 
 > **WHO PROVIDED THE PRIZES?**
 
-Big thanks go out to the following chums and buckets (in no particular order) who all donated prizes, meat, and labor for NSFW-AI:
+Big thanks go out to the following chums and buckets (in no particular order) who all donated prizes, meat, or labor for NSFW-AI:
 
 - sweaty bill (#1515124)
 - Beldur (#1046951)
@@ -100,6 +100,7 @@ Big thanks go out to the following chums and buckets (in no particular order) wh
 - Aenimus (#2273519)
 - purple shrimp (#1659891)
 - Minikid2 (#1708696)
+- LaNz (#835813)
 - Captain Scotch (#437479)
 - Manendra (#1483803)
 - Asmodais (#2071543)
