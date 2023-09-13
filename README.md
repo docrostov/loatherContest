@@ -38,9 +38,10 @@ And so on and so forth. Of course, we have a larger prize pool, so instead of a 
 
 > **CAN I GET MORE SPECIFICS ON THE OVERALL PRIZE POOL?**
 
-The current prize pool consists of at least one of every IOTM in next year’s standard set, with (in some cases) many more! It also includes a handful of IOTMs that will end their standard eligibility at the end of this year. The prize pool currently contains 66 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/37d56644-6c24-4da2-bae3-769d374e93fd)!):
+The current prize pool consists of at least one of every IOTM in our current standard set, with (in some cases) many more! The prize pool currently contains 70 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/3ba05b76-1170-4e99-ab1e-f14750847888)!):
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/37d56644-6c24-4da2-bae3-769d374e93fd)
+![image](https://github.com/docrostov/loatherContest/assets/8014761/3ba05b76-1170-4e99-ab1e-f14750847888)
+
 
 It's a lot of items, folks! The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny with a manual run and enters their runlog ends up with an unbound IOTM for their troubles.
 
@@ -98,10 +99,12 @@ Big thanks go out to the following chums and buckets (in no particular order) wh
 - Haxxi (#2264486)
 - Lyft (#3045223)
 - Aenimus (#2273519)
+- Somersaulter (#1770348)
 - purple shrimp (#1659891)
 - Minikid2 (#1708696)
 - LaNz (#835813)
 - Captain Scotch (#437479)
+- BurningBman (#1729599)
 - Manendra (#1483803)
 - Asmodais (#2071543)
 - playultm8 (#2156370)
