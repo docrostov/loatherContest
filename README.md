@@ -38,9 +38,9 @@ And so on and so forth. Of course, we have a larger prize pool, so instead of a 
 
 > **CAN I GET MORE SPECIFICS ON THE OVERALL PRIZE POOL?**
 
-The current prize pool consists of at least one of every IOTM in our current standard set, with (in some cases) many more! The prize pool currently contains 70 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/3ba05b76-1170-4e99-ab1e-f14750847888)!):
+The current prize pool consists of at least one of every IOTM in our current standard set, with (in some cases) many more! The prize pool currently contains 74 unbound IOTMs, which are detailed below (and, again, largely visible in Captain Scotch’s display case; [click here for a larger image](https://github.com/docrostov/loatherContest/assets/8014761/03bafac6-2b30-4f76-b519-3efb5ad84985)!):
 
-![image](https://github.com/docrostov/loatherContest/assets/8014761/3ba05b76-1170-4e99-ab1e-f14750847888)
+![image](https://github.com/docrostov/loatherContest/assets/8014761/03bafac6-2b30-4f76-b519-3efb5ad84985)
 
 
 It's a lot of items, folks! The pool may continue increasing throughout this contest. It is the hope of the organizers that every person (or very nearly every person) who beats Kenny with a manual run and enters their runlog ends up with an unbound IOTM for their troubles.
@@ -78,10 +78,10 @@ We are aware that not everyone has the IOTMs necessary to beat Kenny's run. Some
 
 > **OK, GREAT. WHAT IS KENNY'S CURRENT TURNCOUNT?**
 
-At time of writing (September 12th), Kenny currently is at: 
+At time of writing (October 25th), Kenny currently is at: 
 
 - 2 days, 676 turns in Hardcore
-- 2 days, 518 turns in Normal
+- 2 days, 490 turns in Normal
 
 Kenny will be running Autoscend again before the season concludes, so these numbers are not final -- these are an initial shot. It sounds as though Kenny intends to grind normal runs with Autoscend to get the path reward, so it is likely the turn count for Normal goes down considerably before the end of the season. We're less sure about Hardcore -- seems much less likely that one moves around very much! 
 
@@ -100,6 +100,7 @@ Big thanks go out to the following chums and buckets (in no particular order) wh
 - Lyft (#3045223)
 - Aenimus (#2273519)
 - Somersaulter (#1770348)
+- tigerinanenet (#3553615)
 - purple shrimp (#1659891)
 - Minikid2 (#1708696)
 - LaNz (#835813)
